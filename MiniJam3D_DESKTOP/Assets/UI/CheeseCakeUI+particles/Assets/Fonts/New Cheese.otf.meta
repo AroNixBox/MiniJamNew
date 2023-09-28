@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 548521fefc2ec4235a2e1b84e3a014ea
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - New Cheese
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f093b993f4a304eb59a43dabd9fc4b47, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
